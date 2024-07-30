@@ -1,0 +1,10 @@
+matplotlib==3.9.1
+nltk==3.8.1
+notebook==7.2.1
+numpy==2.0.1
+pandas==2.2.2
+scikit-learn==1.5.1
+seaborn==0.13.2
+setuptools==72.1.0
+torch==2.4.0
+tqdm==4.66.4
